@@ -61,7 +61,7 @@ Currently working at **Browo GmbH**, focusing on modern web applications, softwa
 
 An immersive 3D personal portfolio that reimagines the traditional CV through interactive animations, cinematic scroll effects, and modern web technologies.
 
-<a href="https://mert.85-214-241-35.sslip.io/tr">
+<a href="https://mertemirercan.dev">
   <img src="https://img.shields.io/badge/Explore%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
